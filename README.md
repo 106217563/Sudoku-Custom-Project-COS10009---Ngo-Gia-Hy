@@ -24,7 +24,7 @@ This project is inspired by the original Sudoku game and developed entirely usin
 
 * **Choose difficulty:** '1' for EASY MODE, '2' for MEDIUM MODE, '3' for HARD MODE
 
-* **Controls**:
+* **Controls:**
 - Left click: Select the cell
 - Number keys (1 - 9): Input a number
 - Backspace: Delete number from the selected cell
